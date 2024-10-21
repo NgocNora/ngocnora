@@ -1,0 +1,22 @@
+@charset "utf-8";
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,121,121,1.00) 52.33%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,121,121,1.00) 52.33%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,121,121,1.00) 52.33%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(255,121,121,1.00) 52.33%,rgba(255,0,0,1.00) 100%);
+}
+#headingFour1 .mb-0 .collapsed {
+    color: #FF1115;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #C13D45;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #E16668;
+}
+#headingOne1 .mb-0 a {
+    color: #C34E50;
+}
+body {
+    background-color: #E08485;
+}
